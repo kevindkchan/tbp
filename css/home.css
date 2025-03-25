@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000000;
+}
+
+a {
+    text-decoration: black;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+
+/* Navbar */
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    padding-top: 32px;
+}
